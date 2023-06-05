@@ -1,0 +1,8 @@
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayConsole05\bin\Debug\ArrayConsole05.exe.config
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayConsole05\bin\Debug\ArrayConsole05.exe
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayConsole05\bin\Debug\ArrayConsole05.pdb
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayConsole05\obj\Debug\ArrayConsole05.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayConsole05\obj\Debug\ArrayConsole05.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayConsole05\obj\Debug\ArrayConsole05.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayConsole05\obj\Debug\ArrayConsole05.exe
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayConsole05\obj\Debug\ArrayConsole05.pdb

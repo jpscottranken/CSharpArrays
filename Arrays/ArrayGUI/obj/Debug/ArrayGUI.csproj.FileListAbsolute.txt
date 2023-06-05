@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayGUI\bin\Debug\ArrayGUI.exe.config
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayGUI\bin\Debug\ArrayGUI.exe
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayGUI\bin\Debug\ArrayGUI.pdb
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayGUI\obj\Debug\ArrayGUI.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayGUI\obj\Debug\ArrayGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayGUI\obj\Debug\ArrayGUI.Properties.Resources.resources
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayGUI\obj\Debug\ArrayGUI.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayGUI\obj\Debug\ArrayGUI.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayGUI\obj\Debug\ArrayGUI.exe
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayGUI\obj\Debug\ArrayGUI.pdb
+C:\Users\jpscott\Desktop\Arrays\Arrays\ArrayGUI\obj\Debug\ArrayGUI.frmArrayFun.resources
